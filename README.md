@@ -4,7 +4,7 @@
 This project was written for a university project for the seminar "Modelling and Simulation". For this project, we had to implement the widely used SIR-model and some extensions to it.
 
 ## SIR-Model 
-Further information for the SIR-Model can be found on (Wikipedia)[https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model] or in our paper (in German)
+Further information for the SIR-Model can be found on [Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model) or in our paper (in German)
 
 ## Installation
 

@@ -1,5 +1,7 @@
 # Epidemic simulator
 
+> This has been a project done in a team during a modelling and simulation lecture at the Munich university of applied sciences.
+
 ## Installation
 
 Make sure to have Python `>3.8.2` installed.
